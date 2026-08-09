@@ -1,0 +1,1 @@
+Implement a function that returns the factorial of n, the product of every integer from 1 to n, with the factorial of 0 defined as 1.
