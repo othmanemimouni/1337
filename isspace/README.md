@@ -1,0 +1,1 @@
+Implement a function that reports whether a character is a whitespace character.
