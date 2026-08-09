@@ -1,0 +1,1 @@
+Implement a function that returns the uppercase form of a lowercase letter and returns every other character untouched.
