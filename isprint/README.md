@@ -1,0 +1,1 @@
+Implement a function that reports whether a character is printable, meaning it would show up as visible ink or a blank space on screen.
