@@ -1,0 +1,21 @@
+# SSH keys / secrets
+id_ed25519
+id_ed25519.pub
+*.pem
+*.key
+*.secret
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# C compiled files
+*.o
+*.out
+a.out
+
+# Editor files
+.vscode/
+.idea/
+*.swp
