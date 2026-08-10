@@ -1,0 +1,1 @@
+Repeat each letter by its 0-based alphabetical position
