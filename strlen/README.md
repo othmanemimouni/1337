@@ -1,0 +1,1 @@
+Implement a function that counts characters in a string up to but not including the null terminator.
