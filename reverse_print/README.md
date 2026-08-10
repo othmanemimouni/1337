@@ -1,0 +1,1 @@
+Write a program that receives one text argument and prints it backward, followed by a newline.
