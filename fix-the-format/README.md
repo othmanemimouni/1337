@@ -1,0 +1,1 @@
+Repair print_pair so it prints count and total on one line, each with a format specifier that matches its type.
