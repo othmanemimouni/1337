@@ -1,0 +1,1 @@
+Write a program that draws a centered pyramid of # characters whose height is given as the single argument.
