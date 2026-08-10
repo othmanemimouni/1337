@@ -1,0 +1,1 @@
+Write a function that copies the source string into the destination buffer.
